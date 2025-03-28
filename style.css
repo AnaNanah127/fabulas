@@ -1,7 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Canadian+Aboriginal:wght@100..900&display=swap');
+
 body{
     font-size: 20px;
     line-height: 1.5;
     background-color:lightskyblue;
+    font-family: "Noto Sans Canadian Aboriginal", sans-serif;
 }
 
 img{
